@@ -50,210 +50,300 @@
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Opens Invoice Edit Form",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Mark Billed and Bill Date",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "opens work input",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command29",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command31",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command40",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command43",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command45",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command46",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command47",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command49",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command51",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "shows all Check #s and Amts. marked To be deposited",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command78",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command79",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command81",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command82",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command84",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command89",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command90",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command91",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command93",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command94",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command95",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command96",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command102",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command103",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command104",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       },
       {
         "control": "Command105",
         "event": "OnClick",
         "calls": [],
         "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryTreeWorkInvoiceUpdate",
+          "query:qryPlantHealthCareBilledSequentialUpdate"
+        ]
       }
     ],
     "subforms": []
@@ -881,22 +971,6 @@
     ],
     "subforms": []
   },
-  "frmInvoiceGenerator": {
-    "fields": [],
-    "controls_with_events": [
-      "btnGenerateInvoice"
-    ],
-    "events": [
-      {
-        "control": "btnGenerateInvoice",
-        "event": "OnClick",
-        "calls": [],
-        "opens": [],
-        "runs": []
-      }
-    ],
-    "subforms": []
-  },
   "ORDER_DET_DISP_EVENT": {
     "fields": [
       "Bill_Date",
@@ -970,14 +1044,6 @@
         "runs": []
       }
     ],
-    "subforms": []
-  },
-  "subfrmTotalReceivables": {
-    "fields": [
-      "TotalAmountDue"
-    ],
-    "controls_with_events": [],
-    "events": [],
     "subforms": []
   },
   "SwitchBoard1a": {
@@ -1878,88 +1944,219 @@
     "events": [],
     "subforms": []
   },
-  "SwitchBoard1": {
+  "frmDevTools": {
     "fields": [],
     "controls_with_events": [
-      "opens Orderswitchboardform",
-      "Openssprayswitchboard",
-      "Opens the Invoice Switchboard",
-      "Command49",
-      "Command51",
-      "Command52",
-      "AccountsReceivableButton"
+      "cmdLinkLocal",
+      "cmdTreatmentHealthCheck",
+      "cmdGenerateSchema"
     ],
     "events": [
       {
-        "control": "opens Orderswitchboardform",
+        "control": "cmdLinkLocal",
         "event": "OnClick",
-        "calls": [],
+        "calls": [
+          "proc:cmdRefreshStats_Click",
+          "proc:cmdRefreshStats_Click"
+        ],
         "opens": [
-          "form:SwitchboardAccountsReceivable"
+          "report:rptTreatmentHealthCheck"
         ],
         "runs": []
       },
       {
-        "control": "Openssprayswitchboard",
+        "control": "cmdTreatmentHealthCheck",
         "event": "OnClick",
-        "calls": [],
+        "calls": [
+          "proc:cmdRefreshStats_Click",
+          "proc:cmdRefreshStats_Click"
+        ],
         "opens": [
-          "form:SwitchboardAccountsReceivable"
+          "report:rptTreatmentHealthCheck"
         ],
         "runs": []
       },
       {
-        "control": "Opens the Invoice Switchboard",
+        "control": "cmdGenerateSchema",
         "event": "OnClick",
-        "calls": [],
-        "opens": [
-          "form:SwitchboardAccountsReceivable"
+        "calls": [
+          "proc:cmdRefreshStats_Click",
+          "proc:cmdRefreshStats_Click"
         ],
-        "runs": []
-      },
-      {
-        "control": "Command49",
-        "event": "OnClick",
-        "calls": [],
         "opens": [
-          "form:SwitchboardAccountsReceivable"
-        ],
-        "runs": []
-      },
-      {
-        "control": "Command51",
-        "event": "OnClick",
-        "calls": [],
-        "opens": [
-          "form:SwitchboardAccountsReceivable"
-        ],
-        "runs": []
-      },
-      {
-        "control": "Command52",
-        "event": "OnClick",
-        "calls": [],
-        "opens": [
-          "form:SwitchboardAccountsReceivable"
-        ],
-        "runs": []
-      },
-      {
-        "control": "AccountsReceivableButton",
-        "event": "OnClick",
-        "calls": [],
-        "opens": [
-          "form:SwitchboardAccountsReceivable"
+          "report:rptTreatmentHealthCheck"
         ],
         "runs": []
       }
     ],
     "subforms": []
   },
-  "SwitchBoard2": {
+  "SwitchBoard1": {
     "fields": [],
-    "controls_with_events": [],
-    "events": [],
+    "controls_with_events": [
+      "OLEUnbound38",
+      "opens Orderswitchboardform",
+      "Openssprayswitchboard",
+      "Opens the Invoice Switchboard",
+      "Command49",
+      "Command51",
+      "Command52",
+      "AccountsReceivableButton",
+      "cmdSuperScheduler",
+      "cmdSmartLink"
+    ],
+    "events": [
+      {
+        "control": "OLEUnbound38",
+        "event": "OnClick",
+        "calls": [
+          "proc:RelinkAll",
+          "proc:RelinkAll",
+          "proc:RelinkAll"
+        ],
+        "opens": [
+          "form:frmDevTools",
+          "form:SwitchboardAccountsReceivable",
+          "form:frmSuperScheduler"
+        ],
+        "runs": []
+      },
+      {
+        "control": "opens Orderswitchboardform",
+        "event": "OnClick",
+        "calls": [
+          "proc:RelinkAll",
+          "proc:RelinkAll",
+          "proc:RelinkAll"
+        ],
+        "opens": [
+          "form:frmDevTools",
+          "form:SwitchboardAccountsReceivable",
+          "form:frmSuperScheduler"
+        ],
+        "runs": []
+      },
+      {
+        "control": "Openssprayswitchboard",
+        "event": "OnClick",
+        "calls": [
+          "proc:RelinkAll",
+          "proc:RelinkAll",
+          "proc:RelinkAll"
+        ],
+        "opens": [
+          "form:frmDevTools",
+          "form:SwitchboardAccountsReceivable",
+          "form:frmSuperScheduler"
+        ],
+        "runs": []
+      },
+      {
+        "control": "Opens the Invoice Switchboard",
+        "event": "OnClick",
+        "calls": [
+          "proc:RelinkAll",
+          "proc:RelinkAll",
+          "proc:RelinkAll"
+        ],
+        "opens": [
+          "form:frmDevTools",
+          "form:SwitchboardAccountsReceivable",
+          "form:frmSuperScheduler"
+        ],
+        "runs": []
+      },
+      {
+        "control": "Command49",
+        "event": "OnClick",
+        "calls": [
+          "proc:RelinkAll",
+          "proc:RelinkAll",
+          "proc:RelinkAll"
+        ],
+        "opens": [
+          "form:frmDevTools",
+          "form:SwitchboardAccountsReceivable",
+          "form:frmSuperScheduler"
+        ],
+        "runs": []
+      },
+      {
+        "control": "Command51",
+        "event": "OnClick",
+        "calls": [
+          "proc:RelinkAll",
+          "proc:RelinkAll",
+          "proc:RelinkAll"
+        ],
+        "opens": [
+          "form:frmDevTools",
+          "form:SwitchboardAccountsReceivable",
+          "form:frmSuperScheduler"
+        ],
+        "runs": []
+      },
+      {
+        "control": "Command52",
+        "event": "OnClick",
+        "calls": [
+          "proc:RelinkAll",
+          "proc:RelinkAll",
+          "proc:RelinkAll"
+        ],
+        "opens": [
+          "form:frmDevTools",
+          "form:SwitchboardAccountsReceivable",
+          "form:frmSuperScheduler"
+        ],
+        "runs": []
+      },
+      {
+        "control": "AccountsReceivableButton",
+        "event": "OnClick",
+        "calls": [
+          "proc:RelinkAll",
+          "proc:RelinkAll",
+          "proc:RelinkAll"
+        ],
+        "opens": [
+          "form:frmDevTools",
+          "form:SwitchboardAccountsReceivable",
+          "form:frmSuperScheduler"
+        ],
+        "runs": []
+      },
+      {
+        "control": "cmdSuperScheduler",
+        "event": "OnClick",
+        "calls": [
+          "proc:RelinkAll",
+          "proc:RelinkAll",
+          "proc:RelinkAll"
+        ],
+        "opens": [
+          "form:frmDevTools",
+          "form:SwitchboardAccountsReceivable",
+          "form:frmSuperScheduler"
+        ],
+        "runs": []
+      },
+      {
+        "control": "cmdSmartLink",
+        "event": "OnClick",
+        "calls": [
+          "proc:RelinkAll",
+          "proc:RelinkAll",
+          "proc:RelinkAll"
+        ],
+        "opens": [
+          "form:frmDevTools",
+          "form:SwitchboardAccountsReceivable",
+          "form:frmSuperScheduler"
+        ],
+        "runs": []
+      }
+    ],
     "subforms": []
   },
   "Cust form": {
@@ -3505,9 +3702,16 @@
           "form:Switchboard1",
           "form:Switchboard1",
           "form:Switchboard1",
-          "report:rptAcctsRcbvl2"
+          "report:rptSecretSauce"
         ],
-        "runs": []
+        "runs": [
+          "query:qryPamentsUpdatePdAmt1",
+          "query:qryPamentsUpdatePdAmt2",
+          "query:qryPamentsUpdatePdAmt3",
+          "query:qryPamentsUpdatePdAmt4",
+          "query:qryPamentsUpdatePdAmt5",
+          "query:qryPamentsUpdatePdAmt6"
+        ]
       },
       {
         "control": "Command77",
@@ -3519,9 +3723,16 @@
           "form:Switchboard1",
           "form:Switchboard1",
           "form:Switchboard1",
-          "report:rptAcctsRcbvl2"
+          "report:rptSecretSauce"
         ],
-        "runs": []
+        "runs": [
+          "query:qryPamentsUpdatePdAmt1",
+          "query:qryPamentsUpdatePdAmt2",
+          "query:qryPamentsUpdatePdAmt3",
+          "query:qryPamentsUpdatePdAmt4",
+          "query:qryPamentsUpdatePdAmt5",
+          "query:qryPamentsUpdatePdAmt6"
+        ]
       },
       {
         "control": "Command78",
@@ -3533,105 +3744,16 @@
           "form:Switchboard1",
           "form:Switchboard1",
           "form:Switchboard1",
-          "report:rptAcctsRcbvl2"
+          "report:rptSecretSauce"
         ],
-        "runs": []
-      }
-    ],
-    "subforms": []
-  },
-  "frmCustomerFilterTest2": {
-    "fields": [
-      "Map"
-    ],
-    "controls_with_events": [
-      "cmbLname",
-      "cmbFname",
-      "cmbZip",
-      "cmbCID",
-      "btnReset",
-      "cmbCity",
-      "cmbMap",
-      "cmbGrid"
-    ],
-    "events": [
-      {
-        "control": "cmbLname",
-        "event": "AfterUpdate",
-        "calls": [],
-        "opens": [],
-        "runs": []
-      },
-      {
-        "control": "cmbFname",
-        "event": "AfterUpdate",
-        "calls": [],
-        "opens": [],
-        "runs": []
-      },
-      {
-        "control": "cmbZip",
-        "event": "AfterUpdate",
-        "calls": [],
-        "opens": [],
-        "runs": []
-      },
-      {
-        "control": "cmbCID",
-        "event": "AfterUpdate",
-        "calls": [],
-        "opens": [],
-        "runs": []
-      },
-      {
-        "control": "btnReset",
-        "event": "OnClick",
-        "calls": [],
-        "opens": [],
-        "runs": []
-      },
-      {
-        "control": "cmbCity",
-        "event": "AfterUpdate",
-        "calls": [],
-        "opens": [],
-        "runs": []
-      },
-      {
-        "control": "cmbMap",
-        "event": "AfterUpdate",
-        "calls": [],
-        "opens": [],
-        "runs": []
-      },
-      {
-        "control": "cmbGrid",
-        "event": "AfterUpdate",
-        "calls": [],
-        "opens": [],
-        "runs": []
-      }
-    ],
-    "subforms": [
-      "frmCustomerSubFormTest"
-    ]
-  },
-  "frmCustomerFilterTest1": {
-    "fields": [
-      "CID",
-      "Fname",
-      "Lname"
-    ],
-    "controls_with_events": [
-      "Combo4"
-    ],
-    "events": [
-      {
-        "control": "Combo4",
-        "event": "AfterUpdate",
-        "calls": [],
-        "opens": [],
-        "runs": []
+        "runs": [
+          "query:qryPamentsUpdatePdAmt1",
+          "query:qryPamentsUpdatePdAmt2",
+          "query:qryPamentsUpdatePdAmt3",
+          "query:qryPamentsUpdatePdAmt4",
+          "query:qryPamentsUpdatePdAmt5",
+          "query:qryPamentsUpdatePdAmt6"
+        ]
       }
     ],
     "subforms": []
