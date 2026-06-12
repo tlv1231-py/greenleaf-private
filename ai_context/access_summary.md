@@ -576,7 +576,7 @@
 | Notes | Text |
 | Selected | Boolean |
 
-### tblTreatmentIntervals (96 records)
+### tblTreatmentIntervals (78 records)
 
 | Field | Type |
 |-------|------|
@@ -743,16 +743,16 @@
 
 | Procedure | Outgoing Calls |
 |-----------|----------------|
-| frmSuperScheduler_cmbLname_AfterUpdate | 21 |
-| frmSuperScheduler_cmbCity_AfterUpdate | 21 |
-| frmSuperScheduler_cmbZip_AfterUpdate | 21 |
-| frmSuperScheduler_cmbMap_AfterUpdate | 21 |
-| frmSuperScheduler_cmbGrid_AfterUpdate | 21 |
-| frmSuperScheduler_cmbPriority_AfterUpdate | 21 |
-| frmSuperScheduler_cmdReset_OnClick | 21 |
-| frmSuperScheduler_cmdMapCrew1_OnClick | 21 |
-| frmSuperScheduler_cmdScheduleCrew1_OnClick | 21 |
-| frmSuperScheduler_cmdScheduleCrew2_OnClick | 21 |
+| frmSuperScheduler_cmbLname_AfterUpdate | 24 |
+| frmSuperScheduler_cmbCity_AfterUpdate | 24 |
+| frmSuperScheduler_cmbZip_AfterUpdate | 24 |
+| frmSuperScheduler_cmbMap_AfterUpdate | 24 |
+| frmSuperScheduler_cmbGrid_AfterUpdate | 24 |
+| frmSuperScheduler_cmbPriority_AfterUpdate | 24 |
+| frmSuperScheduler_cmdReset_OnClick | 24 |
+| frmSuperScheduler_cmdMapCrew1_OnClick | 24 |
+| frmSuperScheduler_cmdScheduleCrew1_OnClick | 24 |
+| frmSuperScheduler_cmdScheduleCrew2_OnClick | 24 |
 
 ## Dead Controls (no events, no control source)
 
