@@ -2,6 +2,96 @@
   "query_count": 332,
   "nodes": [
     {
+      "id": "table:CUSTOMER",
+      "kind": "Table",
+      "name": "CUSTOMER"
+    },
+    {
+      "id": "table:DESCRIPTION",
+      "kind": "Table",
+      "name": "DESCRIPTION"
+    },
+    {
+      "id": "table:EVENT",
+      "kind": "Table",
+      "name": "EVENT"
+    },
+    {
+      "id": "table:LOCATION",
+      "kind": "Table",
+      "name": "LOCATION"
+    },
+    {
+      "id": "table:Map data",
+      "kind": "Table",
+      "name": "Map data"
+    },
+    {
+      "id": "table:ORDER",
+      "kind": "Table",
+      "name": "ORDER"
+    },
+    {
+      "id": "table:ORDER DETAIL",
+      "kind": "Table",
+      "name": "ORDER DETAIL"
+    },
+    {
+      "id": "table:Paste Errors",
+      "kind": "Table",
+      "name": "Paste Errors"
+    },
+    {
+      "id": "table:Payments",
+      "kind": "Table",
+      "name": "Payments"
+    },
+    {
+      "id": "table:PEST",
+      "kind": "Table",
+      "name": "PEST"
+    },
+    {
+      "id": "table:PLANT",
+      "kind": "Table",
+      "name": "PLANT"
+    },
+    {
+      "id": "table:PRODUCT",
+      "kind": "Table",
+      "name": "PRODUCT"
+    },
+    {
+      "id": "table:Scheduled Sprays",
+      "kind": "Table",
+      "name": "Scheduled Sprays"
+    },
+    {
+      "id": "table:STATE",
+      "kind": "Table",
+      "name": "STATE"
+    },
+    {
+      "id": "table:tblCrewAssignments",
+      "kind": "Table",
+      "name": "tblCrewAssignments"
+    },
+    {
+      "id": "table:tblTreatmentIntervals",
+      "kind": "Table",
+      "name": "tblTreatmentIntervals"
+    },
+    {
+      "id": "table:Titles",
+      "kind": "Table",
+      "name": "Titles"
+    },
+    {
+      "id": "table:TREATMENT_DETAIL",
+      "kind": "Table",
+      "name": "TREATMENT_DETAIL"
+    },
+    {
       "id": "form:Custnoteform",
       "kind": "Form",
       "name": "Custnoteform"
@@ -190,31 +280,6 @@
       "id": "form:SwitchboardAccountsReceivable",
       "kind": "Form",
       "name": "SwitchboardAccountsReceivable"
-    },
-    {
-      "id": "macro:[Embedded Macro]",
-      "kind": "Macro",
-      "name": "[Embedded Macro]"
-    },
-    {
-      "id": "macro:OPEN_ORDER_DET_DISP",
-      "kind": "Macro",
-      "name": "OPEN_ORDER_DET_DISP"
-    },
-    {
-      "id": "macro:=Create_Event([Forms]![ORDER]![OID],[Forms]![ORDER]![ORDER_DETAIL].[Form]![Line No])",
-      "kind": "Macro",
-      "name": "=Create_Event([Forms]![ORDER]![OID],[Forms]![ORDER]![ORDER_DETAIL].[Form]![Line No])"
-    },
-    {
-      "id": "macro:=Create_Events()",
-      "kind": "Macro",
-      "name": "=Create_Events()"
-    },
-    {
-      "id": "macro:=Create_Event([Forms]![ORDER]![OID],[Forms]![ORDER]![ORDER_DETAIL].[Form]![Line No],[Application],1,[Event Price])",
-      "kind": "Macro",
-      "name": "=Create_Event([Forms]![ORDER]![OID],[Forms]![ORDER]![ORDER_DETAIL].[Form]![Line No],[Application],1,[Event Price])"
     },
     {
       "id": "proc:Invoice SwitchBoard_Opens Edit invoice_OnClick",
@@ -1662,94 +1727,29 @@
       "name": "frmCrew1Sub_cmdRemove_OnClick"
     },
     {
-      "id": "table:CUSTOMER",
-      "kind": "Table",
-      "name": "CUSTOMER"
+      "id": "macro:[Embedded Macro]",
+      "kind": "Macro",
+      "name": "[Embedded Macro]"
     },
     {
-      "id": "table:DESCRIPTION",
-      "kind": "Table",
-      "name": "DESCRIPTION"
+      "id": "macro:OPEN_ORDER_DET_DISP",
+      "kind": "Macro",
+      "name": "OPEN_ORDER_DET_DISP"
     },
     {
-      "id": "table:EVENT",
-      "kind": "Table",
-      "name": "EVENT"
+      "id": "macro:=Create_Event([Forms]![ORDER]![OID],[Forms]![ORDER]![ORDER_DETAIL].[Form]![Line No])",
+      "kind": "Macro",
+      "name": "=Create_Event([Forms]![ORDER]![OID],[Forms]![ORDER]![ORDER_DETAIL].[Form]![Line No])"
     },
     {
-      "id": "table:LOCATION",
-      "kind": "Table",
-      "name": "LOCATION"
+      "id": "macro:=Create_Events()",
+      "kind": "Macro",
+      "name": "=Create_Events()"
     },
     {
-      "id": "table:Map data",
-      "kind": "Table",
-      "name": "Map data"
-    },
-    {
-      "id": "table:ORDER",
-      "kind": "Table",
-      "name": "ORDER"
-    },
-    {
-      "id": "table:ORDER DETAIL",
-      "kind": "Table",
-      "name": "ORDER DETAIL"
-    },
-    {
-      "id": "table:Paste Errors",
-      "kind": "Table",
-      "name": "Paste Errors"
-    },
-    {
-      "id": "table:Payments",
-      "kind": "Table",
-      "name": "Payments"
-    },
-    {
-      "id": "table:PEST",
-      "kind": "Table",
-      "name": "PEST"
-    },
-    {
-      "id": "table:PLANT",
-      "kind": "Table",
-      "name": "PLANT"
-    },
-    {
-      "id": "table:PRODUCT",
-      "kind": "Table",
-      "name": "PRODUCT"
-    },
-    {
-      "id": "table:Scheduled Sprays",
-      "kind": "Table",
-      "name": "Scheduled Sprays"
-    },
-    {
-      "id": "table:STATE",
-      "kind": "Table",
-      "name": "STATE"
-    },
-    {
-      "id": "table:tblCrewAssignments",
-      "kind": "Table",
-      "name": "tblCrewAssignments"
-    },
-    {
-      "id": "table:tblTreatmentIntervals",
-      "kind": "Table",
-      "name": "tblTreatmentIntervals"
-    },
-    {
-      "id": "table:Titles",
-      "kind": "Table",
-      "name": "Titles"
-    },
-    {
-      "id": "table:TREATMENT_DETAIL",
-      "kind": "Table",
-      "name": "TREATMENT_DETAIL"
+      "id": "macro:=Create_Event([Forms]![ORDER]![OID],[Forms]![ORDER]![ORDER_DETAIL].[Form]![Line No],[Application],1,[Event Price])",
+      "kind": "Macro",
+      "name": "=Create_Event([Forms]![ORDER]![OID],[Forms]![ORDER]![ORDER_DETAIL].[Form]![Line No],[Application],1,[Event Price])"
     },
     {
       "id": "form:frmSuperSchedulerSub",
@@ -1773,6 +1773,11 @@
     }
   ],
   "edges": [
+    {
+      "src": "table:EVENT",
+      "dst": "table:PRODUCT",
+      "kind": "DEPENDS_ON"
+    },
     {
       "src": "event:ctrl:Invoice SwitchBoard.Opens Edit invoice.OnClick",
       "dst": "proc:Invoice SwitchBoard_Opens Edit invoice_OnClick",
@@ -3850,6 +3855,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmbLname_AfterUpdate",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbLname_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbLname_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbLname_AfterUpdate",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -3970,6 +3990,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmbCity_AfterUpdate",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbCity_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbCity_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbCity_AfterUpdate",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -4090,6 +4125,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmbZip_AfterUpdate",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbZip_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbZip_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbZip_AfterUpdate",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -4210,6 +4260,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmbMap_AfterUpdate",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbMap_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbMap_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbMap_AfterUpdate",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -4330,6 +4395,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmbGrid_AfterUpdate",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbGrid_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbGrid_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbGrid_AfterUpdate",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -4450,6 +4530,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmbPriority_AfterUpdate",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbPriority_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbPriority_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbPriority_AfterUpdate",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -4570,6 +4665,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmdReset_OnClick",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdReset_OnClick",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdReset_OnClick",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdReset_OnClick",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -4690,6 +4800,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmdMapCrew1_OnClick",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdMapCrew1_OnClick",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdMapCrew1_OnClick",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdMapCrew1_OnClick",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -4810,6 +4935,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmdScheduleCrew1_OnClick",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdScheduleCrew1_OnClick",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdScheduleCrew1_OnClick",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdScheduleCrew1_OnClick",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -4930,6 +5070,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmdScheduleCrew2_OnClick",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdScheduleCrew2_OnClick",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdScheduleCrew2_OnClick",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdScheduleCrew2_OnClick",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -5050,6 +5205,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmdMapCrew2_OnClick",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdMapCrew2_OnClick",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdMapCrew2_OnClick",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdMapCrew2_OnClick",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -5170,6 +5340,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmbPest_AfterUpdate",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbPest_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbPest_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbPest_AfterUpdate",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -5290,6 +5475,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmbProdType_AfterUpdate",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbProdType_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbProdType_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbProdType_AfterUpdate",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -5410,6 +5610,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmbCrew_AfterUpdate",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbCrew_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbCrew_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbCrew_AfterUpdate",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -5530,6 +5745,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmdDateBack_OnClick",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdDateBack_OnClick",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdDateBack_OnClick",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdDateBack_OnClick",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -5650,6 +5880,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmdDateForward_OnClick",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdDateForward_OnClick",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdDateForward_OnClick",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdDateForward_OnClick",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -5770,6 +6015,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmdUpdateScheduling_OnClick",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdUpdateScheduling_OnClick",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdUpdateScheduling_OnClick",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmdUpdateScheduling_OnClick",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -5890,6 +6150,21 @@
     },
     {
       "src": "proc:frmSuperScheduler_cmbLargeTree_AfterUpdate",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbLargeTree_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbLargeTree_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbLargeTree_AfterUpdate",
       "dst": "report:rptMissingStartDates",
       "kind": "EVENT_OPENS_FORM"
     },
@@ -6006,6 +6281,21 @@
     {
       "src": "proc:frmSuperScheduler_cmbStartDate_AfterUpdate",
       "dst": "proc:ScheduleCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbStartDate_AfterUpdate",
+      "dst": "proc:RefreshAllSubforms",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbStartDate_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
+      "kind": "CALLS"
+    },
+    {
+      "src": "proc:frmSuperScheduler_cmbStartDate_AfterUpdate",
+      "dst": "proc:MarkCompleteCrew",
       "kind": "CALLS"
     },
     {
